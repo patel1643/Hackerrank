@@ -17,12 +17,6 @@
 # The next line contains , the size of .
 # Each of the next  lines contains a string .
 #
-# Constraints
-#
-#
-#
-#  .
-#
 # Output Format
 #
 # Return an integer array of the results of all queries in order.
